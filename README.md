@@ -1,16 +1,13 @@
-### Welcome to My GitHub Profile! 📈
 
-<!--
-**alfl0m/alfl0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome to My GitHub Profile! 🤝
+I'm passionate about web development and the ever-evolving world of web technologies 📚.  
+Constantly seeking ways to enhance my skills, I'm on a journey 🌐.  
+
+## 🔧 Technologies & Tools
+- **Languages:** 
+  - HTML
+  - CSS
+  - JavaScript
